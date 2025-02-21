@@ -1,0 +1,8 @@
+opencv-python
+dlib
+face-recognition
+numpy
+sqlite3
+pyotp
+smtplib
+streamlit
